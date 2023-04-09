@@ -7,3 +7,7 @@
 5. cd airs
 6. npm install
 8. npm run serve
+
+Вид сайта:
+
+![Vue example](https://github.com/gorshoklive/TestVue/blob/main/VueDraw.png)
